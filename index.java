@@ -7,6 +7,9 @@ class index{
         System.out.println("Mr. M");
 =======
         System.out.println("Hey bro");
+<<<<<<< HEAD
+>>>>>>> parent of c5d160e (Changed)
+=======
 >>>>>>> parent of c5d160e (Changed)
     }
 }
