@@ -1,1 +1,2 @@
-# practice-Java
+# Java Practice
+## Improving coding skills
