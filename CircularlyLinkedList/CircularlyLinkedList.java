@@ -64,7 +64,7 @@ public class CircularlyLinkedList<T> {
 
     public static void main(String[] args) {
         //
-        // !!! it think this code is right, but it needs some test !!!
+        // !!! i think this code is right, but it needs some test !!!
         //
         var ll = new CircularlyLinkedList<Integer>();
         System.out.println(ll.getSize());
