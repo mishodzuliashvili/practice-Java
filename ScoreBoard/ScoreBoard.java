@@ -44,7 +44,7 @@ public class ScoreBoard {
         board[i] = ge;
     }
     }
-    public GameEntry remove(int index) {
+    public GameEntry remove(int index) throws IndexOutOfBoundsException{
         if(index < 0 || index >= numEntries) throw new IndexOutOfBoundsException("out of index");
 
         GameEntry result = board[index];
