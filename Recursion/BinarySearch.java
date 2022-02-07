@@ -1,4 +1,4 @@
-package BinarySearch;
+package Recursion;
 
 import java.util.Random;
 
